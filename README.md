@@ -9,6 +9,6 @@ pytest -rA --tb=line
 ```
 
 If necessary, install browser for playwright:
-'''
+```
 playwright install chromium
-'''
+```
